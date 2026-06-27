@@ -14,8 +14,9 @@
 (async function(){
   try {
     const resp = await fetch('url.txt?t=' + Date.now());
-    const url = (await resp.text()).trim();
-    if (url) window.location.replace(url);
+    const raw = await resp.text();
+    const url = raw.split('\n')[0].trim();
+    if (url && url.startsWith('http')) window.location.replace(url);
   } catch(e) {}
 })();
 </script>
