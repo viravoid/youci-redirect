@@ -1,1 +1,5 @@
-https://youci-keqi-zi8ngqsh.edgeone.cool?eo_token=66f33a2df94ca15090b2e8f8c8de46d3&eo_time=1782556761
+https://youci-keqi-zi8ngqsh.edgeone.cool?eo_token=91e6ca183926207e82825da13139d4bb&eo_time=1782558028
+EDGEONE_DEPLOY_TYPE=preset
+EDGEONE_PROJECT_ID=makers-r4ob3cndysio
+[90m[cli][0m[32m[✔] [0mYou can view your deployment in the EdgeOne Makers Console at: https://console.cloud.tencent.com/edgeone/pages/project/makers-r4ob3cndysio/deployment/dpy608hbazy5
+{
