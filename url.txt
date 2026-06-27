@@ -1,1 +1,1 @@
-https://youci-keqi-zi8ngqsh.edgeone.cool?eo_token=91e6ca183926207e82825da13139d4bb&eo_time=1782558028
+https://github.com/request/request/issues/3142
