@@ -13,7 +13,7 @@
 <script>
 (async function(){
   try {
-    const resp = await fetch('https://raw.githubusercontent.com/viravoid/youci-keqi/master/url.txt?t=' + Date.now());
+    const resp = await fetch('url.txt?t=' + Date.now());
     const url = (await resp.text()).trim();
     if (url) window.location.replace(url);
   } catch(e) {}
